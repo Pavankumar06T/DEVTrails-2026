@@ -1,6 +1,8 @@
-# 🚚 GigShield — Parametric Insurance Platform for Gig Workers
+# 🚚 KaavalPay — Parametric Insurance Platform for Gig Workers
 
-GigShield is an AI-powered parametric insurance platform designed to protect delivery partners during adverse weather events. When a verified weather alert triggers in a partner's active delivery zone, eligible workers automatically receive a payout — no paperwork, no claims processing delay.
+- **Kaaval** (காவல்) means *Protection* in Tamil.
+- Because every delivery partner deserves protection when the storm hits.
+- KaavalPay is an AI-powered parametric insurance platform designed to protect delivery partners during adverse weather events. When a verified weather alert triggers in a partner's active delivery zone, eligible workers automatically receive a payout — no paperwork, no claims processing delay.
 
 Built for the DEVTrails 2026 Hackathon | Guidewire Track
 
